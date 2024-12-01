@@ -1,0 +1,11 @@
+{
+    "timestamp": "2024-11-26_22-55-26",
+    "regulation": "HIPAA",
+    "compliance_plan": {
+        "privacy_rule": [
+            "Ensure protected health information (PHI) is safeguarded.",
+            "Provide patients with rights over their PHI.",
+            "Limit disclosures of PHI to the minimum necessary."
+        ]
+    }
+}

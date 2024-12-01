@@ -1,0 +1,67 @@
+{
+    "timestamp": "2024-11-26_22-48-17",
+    "audit_results": {
+        "data_collection": [
+            {
+                "question": "Are users informed about data collection?",
+                "response": "yes"
+            },
+            {
+                "question": "Is data collection limited to what's necessary?",
+                "response": "yes"
+            },
+            {
+                "question": "Are consent mechanisms in place?",
+                "response": "yes"
+            }
+        ],
+        "data_storage": [
+            {
+                "question": "Is data encrypted at rest?",
+                "response": "yes"
+            },
+            {
+                "question": "Is sensitive data stored securely?",
+                "response": "yes"
+            },
+            {
+                "question": "Are backup policies in place?",
+                "response": "yes"
+            }
+        ],
+        "data_access": [
+            {
+                "question": "Is access to data restricted based on roles?",
+                "response": "yes"
+            },
+            {
+                "question": "Are access logs maintained and monitored?",
+                "response": "yes"
+            },
+            {
+                "question": "Are strong authentication mechanisms used?",
+                "response": "yes"
+            }
+        ],
+        "compliance": [
+            {
+                "question": "Is the organization GDPR compliant?",
+                "response": "yes"
+            },
+            {
+                "question": "Are data retention policies clearly defined?",
+                "response": "yes"
+            },
+            {
+                "question": "Is there a process for handling data subject requests?",
+                "response": "yes"
+            }
+        ]
+    },
+    "vulnerabilities": {
+        "data_collection": [],
+        "data_storage": [],
+        "data_access": [],
+        "compliance": []
+    }
+}
